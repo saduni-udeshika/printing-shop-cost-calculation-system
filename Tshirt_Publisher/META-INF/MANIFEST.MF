@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Tshirt_Publisher
+Bundle-SymbolicName: Tshirt_Publisher
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: tshirt_publisher.Activator
+Export-Package: tshirt_publisher
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Automatic-Module-Name: Tshirt.Publisher
+Import-Package: org.osgi.framework;version="1.3.0"
+Bundle-ActivationPolicy: lazy
